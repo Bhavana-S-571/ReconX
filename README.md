@@ -91,13 +91,13 @@ Password: Leave blank.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/sudayagiri5/ledger-recon.git
+git clone https://github.com/Bhavana-S-571/ReconX.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd ledger-recon
+cd ReconX
 ```
 
 3. Build the project:
